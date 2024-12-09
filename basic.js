@@ -45,7 +45,7 @@ console.log(nada);
 
 // Undefined: sin valor asignado - no se asigna nada mas
 
-let nadatambien;
+let nadatambien = undefined;
 console.log(nadatambien);
 
 //Object (un objeto con propiedades y valores)
